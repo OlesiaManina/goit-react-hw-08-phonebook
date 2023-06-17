@@ -1,0 +1,11 @@
+.title {
+    margin-left: 80px;
+    font-size: large;
+}
+
+.container {
+  background-image: url('../images/K1IN7zWIjFLjZzJ4Us3J.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
